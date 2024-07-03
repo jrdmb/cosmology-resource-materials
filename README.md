@@ -2,18 +2,18 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 05-May-2024**
+**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 03-July-2024**
 <hr><br>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
   
-+ [**Database of links to 7,100+ cosmology researcher talks**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
++ [**Database of links to 7,500+ cosmology researcher talks**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
 
 + [**Searchable cross-reference of Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
 
 + [**List of all talk host sites in the talks database**](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
 
-+ [**Database of 3,000+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
++ [**Database of 3,500+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
 
 + [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
 
@@ -143,7 +143,7 @@
 
 + Licia Verde - papers on statistical methods in cosmology: [0911.3105](https://arxiv.org/abs/0911.3105), [0712.3026](https://arxiv.org/abs/0712.3028) and [recorded lectures](https://jrdmb.netlify.app/crt.html?s1=licia+verde&s2=statistic)
 
-+ Luca Amendola - [Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/cosmology.pdf), dated 31-Jan-2023 | [Advanced Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/adv-cosm.pdf), dated 24-Jun-2022
++ Luca Amendola - [Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/cosmology.pdf), dated 31-Jan-2023 | [Advanced Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/adv-cosm.pdf), dated 25-Jul-2023
 
 + M. Sten Delos - [The physical bases for the structures of collisionless dark matter halos](https://wwwmpa.mpa-garching.mpg.de/~komatsu/lecturenotes/Sten_Delos_on_darkmatter_structure.pdf)
 
@@ -153,9 +153,13 @@
 
 + Mark Trodden and Sean Carroll - [TASI Lectures: Introduction to Cosmology (2004)](https://arxiv.org/abs/astro-ph/0401547)
 
++ Matteo Maturi - Video playlists of his courses at Heidelberg U. in [Advanced Cosmology](https://www.youtube.com/playlist?list=PLG4KhehRXgYsc0ipyKJa1QBQDSTbJ10ef), [Cosmology](https://www.youtube.com/playlist?list=PLG4KhehRXgYuKYvSgMMiN_amzwbperswo), [General Relativity](https://www.youtube.com/playlist?list=PLG4KhehRXgYsCJtYYk1A-7-TP-Q_pyFZT), and [Theoretical Astrophysics](https://www.youtube.com/playlist?list=PLG4KhehRXgYveRVcpac6eKeBN6SderjFo). [More info](https://www.ita.uni-heidelberg.de/~maturi/teaching.html).
+
 + Matthias Blau - [General Relativity lecture notes, updated Nov. 2022](http://www.blau.itp.unibe.ch/newlecturesGR.pdf)
 
 + Mehrdad Mirbabayi - [Lecture notes for ICTP GR-I/II, EFT of LSS, and Inflation courses](https://users.ictp.it/~mirbabayi/)
+
++ Moritz Munchmeyer - [Lecture notes on Computational Cosmology](https://munchmeyer.physics.wisc.edu/lecture-notes/) | [Lecture slides from Machine Learning in Physics course](https://ai.physics.wisc.edu/teaching/) |
 
 + Mustafa Amin - [Dark Matter lecture notes](https://www.dropbox.com/scl/fi/m4dmjkatlpm62w4eirx4z/Amin_DM_2023.pdf?dl=0&rlkey=iie1ucj4v5f49ks20z65vy0du) for the July 2023 Giambiagi Summer School for Cosmology 
 
@@ -459,6 +463,8 @@
 
 + [Miguel Zumalacarregui](https://miguelzuma.github.io/index.html): works at the interface between cosmology, gravitation and fundamental physics |  [hi_class](https://miguelzuma.github.io/hi_class_public/) code developer | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=miguel+zuma) |
 
++ [Mike Boylan-Kolchin](https://mrbk.github.io/index.html): "research focuses on galaxy formation theory and its interface with cosmology" | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=boylan-kolchin) |
+
 + [Minh Nguyen](https://minhmpa.github.io/) physical cosmology, large-scale structure
 
 + [Moritz Haslbauer](https://moritzhaslbauer.jimdofree.com/): galaxy formation/evolution models | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=moritz+haslbauer) |
@@ -499,7 +505,7 @@
 
 + [Tessa Baker](https://www.tessabaker.space/): dark energy, modified gravity, gravitational waves, galaxy surveys and large-scale structure | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=tessa_baker) |
 
-+ [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | 
++ [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [cosmosage-v3](https://huggingface.co/Tijmen2/cosmosage-v3) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | 
 
 + [Valeria Pettorino](https://www.valeriapettorino.com/blog): Machine Learning, MCMC | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=valeria+pettorino) |
 
