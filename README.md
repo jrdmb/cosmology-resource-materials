@@ -2,18 +2,18 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 03-July-2024**
+**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 06-Sep-2024**
 <hr><br>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
   
-+ [**Database of links to 7,500+ cosmology researcher talks**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
++ [**Database of links to 7,700+ cosmology researcher talks**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
 
 + [**Searchable cross-reference of Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
 
 + [**List of all talk host sites in the talks database**](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
 
-+ [**Database of 3,500+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
++ [**Database of 3,700+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
 
 + [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
 
@@ -75,7 +75,7 @@
   - [Color figures and other materials from Daniel's textbook `Cosmology`](https://github.com/ddbaumann/cosmo-book) | [Book's website](https://www.cambridge.org/highereducation/books/cosmology/53783DD7B3CB15E2E37ADFBC0C1B930F/resources/student-resources/B3B89707FBB9F95DE18310093A529228) |
   - [Notes on historical papers of importance to the field of Cosmology](https://www.dropbox.com/s/yxxhfmfha6gvhud/Book-History.pdf?dl=0 'Baumann')
   - [Talk slides on slideshare](https://www.slideshare.net/DanielBaumann11/presentations)
-  - [Introduction to Cosmology (3 lecture recordings, CERN Summer Student Programme 2022)](https://cds.cern.ch/search?ln=en&as=1&cc=General+Talks&m1=a&p1=daniel+baumann&f1=author&op1=a&m2=a&p2=Introduction+to+Cosmology&f2=title) 
+  - [Introduction to Cosmology (2024 and 2022 CERN Summer Student Programme series, 3 lecture recordings with slides each year)](https://cds.cern.ch/search?ln=en&as=1&cc=General+Talks&m1=a&p1=daniel+baumann&f1=author&op1=a&m2=a&p2=Cosmology&f2=title) 
   - [General Relativity course lecture notes](https://www.dropbox.com/s/neaktpp6c7uwnu1/GR-2022.pdf?dl=0) | [The Physics of Inflation](https://www.icts.res.in/sites/default/files/baumann_icts_dec2011.pdf) |
   - [Lecture notes on "Cosmological Correlations" written together with Austin Joyce](https://github.com/ddbaumann/cosmo-correlators) | [Lecture recording on this at the Kavli Asian Winter School, Jan 2023](https://youtu.be/H0d4HJ_qwEY?t=2666) | [lecture slides](https://www.slideshare.net/DanielBaumann11/lectures-on-cosmological-correlations) |
   - [[2203.08121] Snowmass White Paper: The Cosmological Bootstrap](https://arxiv.org/abs/2203.08121), Baumann+
@@ -87,7 +87,7 @@
 
 + Dan Hooper - [TASI Lectures on Indirect Searches For Dark Matter [1812.02029]](https://arxiv.org/abs/1812.02029)
 
-+ David Tong+ - [Cosmology lectures and problem sheets](http://www.damtp.cam.ac.uk/user/tong/cosmo.html)
++ David Tong+ - [Cosmology lectures and problem sheets](http://www.damtp.cam.ac.uk/user/tong/cosmo.html) | [Particle World Summer Lectures at CERN, video + slides](https://cds.cern.ch/search?f=author&p=Tong%2C%20David&ln=en) |
 
 + David Wands - [The Early Universe](https://github.com/HAWinther/LectureNotes/blob/master/ICG_PhD_Lectures_Theoretical_Cosmology_2016/notes_david_wands.pdf) | [[1504.06335] Physics of the Cosmic Microwave Background Radiation](https://arxiv.org/abs/1504.06335), by Wands et al |
 
@@ -118,6 +118,8 @@
 + Hans Winther - [Theoretical Cosmology lecture notes](https://github.com/HAWinther/LectureNotes) | [Cosmology II course, U of Oslo](https://cmb.wintherscoming.no/) |
 
 + ICG Portsmouth - [Theoretical Cosmology lecture notes](https://github.com/HAWinther/LectureNotes)
+
++ James Bjorken - [Physics Notes](http://www.bjphysicsnotes.com/home.html), some cosmology-related materials, especially on dark energy.
 
 + Jens Chluba - [Future Steps in Cosmology using Spectral Distortions of the Cosmic Microwave Background [1806.02915]](https://arxiv.org/abs/1806.02915) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=chluba) | [Recombination readings, exercises and solutions](https://www.icts.res.in/event/page/17487) |
 
@@ -199,11 +201,19 @@
 
 + [Dynamics of the Universe in Problems](http://universeinproblems.com/index.php/Main_Page): over 2,000 problems and solutions
 
-+ [The Cosmological Parameters [2201.08666]](https://arxiv.org/abs/2201.08666): from The Review of Particle Physics 2022 (aka the Particle Data Book)
++ [All astrophysical and cosmology coverage in the Review of Particle Physics (2024)](https://pdg.lbl.gov/2024/reviews/astro-cosmo.html)
 
-+ [Particle Data Group: Astrophysical Constants and Parameters](http://pdg.lbl.gov/2019/reviews/rpp2018-rev-astrophysical-constants.pdf)
++ [The Cosmological Parameters (2024)](https://pdg.lbl.gov/2024/reviews/rpp2024-rev-cosmological-parameters.pdf) | earlier version [2201.08666](https://arxiv.org/abs/2201.08666): from the Particle Data Book |
+
++ [Particle Data Group: Astrophysical Constants and Parameters](https://pdg.lbl.gov/2024/reviews/rpp2024-rev-astrophysical-constants.pdf)
+
++ [Programmatic Access (API) to PDG Data](https://pdg.lbl.gov/2024/api/index.html)
 
 + [Baryon Acoustic Oscillations tutorial](https://adh-sj.info/bao_cmb.php)
+
++ [CMB Power Spectrum Analyzer](https://lambda.gsfc.nasa.gov/bau/) | docs](https://lambda.gsfc.nasa.gov/education/bau_documentation.html) | [Other NASA LAMBDA educational tools](https://lambda.gsfc.nasa.gov/education/) |
+
++ [CMB Summer School (from The McMahon Cosmology Lab at U of Chicago)](https://sites.google.com/uchicago.edu/themcmahoncosmologylab/cmb-summer-school)
 
 + [Machine Learning in Cosmology](https://github.com/georgestein/ml-in-cosmology), a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Created by [George Stein](https://georgestein.github.io/), ML Scientist at UC Berkeley and LBNL
 
@@ -352,7 +362,7 @@
 
 + [Introduction to MCMC, Seshadri Nadathur github repo](https://github.com/seshnadathur/IntroductionToMCMC)
 
-+ [Student Friendly Guide to the Cosmic Microwave Background](http://www.quantumfieldtheory.info/cmb_vers_2.pdf), by Robert Klauber
++ Robert Klauber materials: [Student Friendly Guide to the Cosmic Microwave Background](http://www.quantumfieldtheory.info/cmb_vers_2.pdf) | [Different Horizons in Cosmology](http://www.quantumfieldtheory.info/Different_Horizons_in_Cosmology.pdf) | [Freeze-Out in the Early Universe](http://www.quantumfieldtheory.info/Freeze_out.pdf) |
 
 + [Cosmological Neutrinos [2203.17223]](https://arxiv.org/abs/2203.17223)
 
@@ -505,7 +515,7 @@
 
 + [Tessa Baker](https://www.tessabaker.space/): dark energy, modified gravity, gravitational waves, galaxy surveys and large-scale structure | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=tessa_baker) |
 
-+ [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [cosmosage-v3](https://huggingface.co/Tijmen2/cosmosage-v3) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | 
++ [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [cosmosage-v3](https://huggingface.co/Tijmen2/cosmosage-v3) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | [[2407.04420] cosmosage: A Natural-Language Assistant for Cosmologists](https://arxiv.org/abs/2407.04420) |
 
 + [Valeria Pettorino](https://www.valeriapettorino.com/blog): Machine Learning, MCMC | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=valeria+pettorino) |
 
