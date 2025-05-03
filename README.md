@@ -2,18 +2,18 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 07-Jan-2025**
-<hr>
+**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 03-May-2025**
+<hr><br>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
   
-+ [**Database of links to ~8,100 cosmology research/academic talks from ~210 sources**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
++ [**Database of links to 8,500+ cosmology research/academic talks from 216 sources**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
 
 + [**Searchable cross-reference of Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
 
 + [**List of all talk host sites in the talks database**](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
 
-+ [**Database of ~3,800 slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
++ [**Database of 4,000+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
 
 + [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
 
@@ -52,7 +52,7 @@
 
 + Anthony Challinor and Hiranya Peiris - [Lecture notes on the physics of cosmic microwave background anisotropies [0903.5158]](https://arxiv.org/abs/0903.5158)
 
-+ Antonio Riotto - [Inflation and the Theory of Cosmological Perturbations (2018)](https://www.ggi.infn.it/ggilectures/ggilectures2018/riotto/riotto.pdf) | [5 lecture series (2018): Inflation and Cosmological Perturbations](https://www.youtube.com/playlist?list=PLDxsZU4NC6Z48qC-2ApHG1eg_I96Jw3B9) |
++ Antonio Riotto - [Inflation and the Theory of Cosmological Perturbations (105 pages)](https://agenda.infn.it/event/42906/contributions/241419/) | [2025 Inflation lecture series at GGI](https://www.youtube.com/watch?v=aOEBOvZD5-8&list=PL1CFLtxeIrQrQ0mUsdCw_vG_OJOYc0Prc) | [lecture series (2018): Inflation and Cosmological Perturbations](https://www.youtube.com/playlist?list=PLDxsZU4NC6Z48qC-2ApHG1eg_I96Jw3B9) |
 
 + Antony Lewis - [Graduate level Cosmology course lecture notes, problem sets, exams](https://cosmologist.info/teaching/EU/) | [Undergrad Cosmology course notes](https://cosmologist.info/teaching/Cosmology/Cosmology.pdf) | 
 
@@ -63,6 +63,8 @@
 + Classical and quantum cosmology lectures, from Corfu Summer Institute: [2202.13875](https://arxiv.org/abs/2202.13875) | [Lectures recording 1](https://youtu.be/38IQBs9qsLc?list=PLUX8Mk7mqLPLPDzcBV5VrCunaCtgQSZKm) | [Recording 2](https://youtu.be/zL5B_e91QFo?list=PLUX8Mk7mqLPLPDzcBV5VrCunaCtgQSZKm) |
 
 + Cliff Burgess - [Course materials, incl PDFs of his books, etc](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=630) | [Course pages](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=18) | [Courses and lectures at Perimeter Institute](https://pirsa.org/speaker/Cliff-Burgess) | [Interview: Lessons on and from Quantum Gravity](https://youtu.be/cSCqIxBxmxs) |
+
++ Carolina Cuesta-Lazaro - [a large slides collection (~93) from her talks on machine learning topics in cosmology](https://slides.com/carolcuesta) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Cuesta-Lazaro) |
 
 + Cole Miller - [Cosmology course (2007), lecture notes and problem sets](https://www.astro.umd.edu/~miller/teaching/astr422/)
 
@@ -137,6 +139,8 @@
 
 + Julien Lesgourgues - [TASI Lectures on Cosmological Perturbations [1302.4640]](https://arxiv.org/abs/1302.4640) | [Cosmology lecture notes for his Master's level course, dated 2023-06-29, 139 pages](https://rwth-aachen.sciebo.de/s/16rDyvE8CIuFNP1) |
 
++ Kaustuv Basu - [Lecture notes for semester Master's level 2022 course on The Cosmic Microwave Background at U of Bonn](https://drive.google.com/uc?export=download&id=1NFXpatryWvKUDexDNfGQPGjRMju7CXp2), [slides for the 13 CMB course lectures](https://astro.uni-bonn.de/~kbasu/cmb_localpage.html)
+
 + Kendrick Smith - [Observational Cosmology](https://www.trisep.ca/2018/program/kendrick_smith_trisep2018.pdf), 128 pages of lecture notes from TRISEP 2018
 
 + Kevin Zhou - [Cosmology lecture notes](https://knzhou.github.io/notes/cos.pdf)
@@ -175,6 +179,8 @@
 
 + Richard Mushotzky - [Astrophysics course materials,  University of Maryland](https://www.astro.umd.edu/~richard/)
 
++ Rishi Khattri - [Cosmology Lecture Notes (195 pages)](https://theory.tifr.res.in/~khatri/lecturenotes/cosmology/cosmology.pdf)
+
 + Sean M. Carroll - [Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) | [A No-Nonsense Intro to GR](https://cmb.wintherscoming.no/pdfs/carroll_gr.pdf) |
 
 + Sean McGee - [Observational Cosmology course materials](https://www.sr.bham.ac.uk/~smcgee/ObsCosmo/)
@@ -196,6 +202,8 @@
 + University of Oslo - [Cosmology II lecture notes, problem sets, lecture videos](https://cmb.wintherscoming.no/literature.php) | [[astro-ph/0606683] How to calculate the CMB spectrum](https://arxiv.org/abs/astro-ph/0606683) |
 
 + Wayne Hu - [Lecture Notes on CMB Theory: From Nucleosynthesis to Recombination](https://arxiv.org/abs/0802.3688) | [Covariant Linear Perturbation Formalism](https://arxiv.org/abs/astro-ph/0402060) | [A CMB Polarization Primer](https://arxiv.org/abs/astro-ph/9706147) | [Tutorials, courses, codes, etc](http://background.uchicago.edu/) |
+
++ Will Handley - [Academic talks (slides and source)](https://github.com/williamjameshandley/talks?tab=readme-ov-file), many on cosmology topics, github repo
 
 + Will Kinney - [TASI Lectures on Inflation [0902.1529]](https://arxiv.org/abs/0902.1529) | [lectures/talks on inflation](https://jrdmb.netlify.app/crt.html?s1=william+h.+kinney) |
 
