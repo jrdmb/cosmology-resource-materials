@@ -2,18 +2,18 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 05-Jun-2025**
+**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 30-Sep-2025**
 <hr><br>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
   
-+ [**Database of links to 8,700+ cosmology research/academic talks from 215 sources**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
++ [**Database of links to 9,200+ cosmology research/academic talks from 200+ sources**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
 
 + [**Searchable cross-reference of Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
 
 + [**List of all talk host sites in the talks database**](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
 
-+ [**Database of 4,200+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
++ [**Database of 4,900+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
 
 + [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
 
@@ -56,7 +56,7 @@
 
 + Antonio Riotto - [Inflation and the Theory of Cosmological Perturbations (105 pages)](https://agenda.infn.it/event/42906/contributions/241419/) | [2025 Inflation lecture series at GGI](https://www.youtube.com/watch?v=aOEBOvZD5-8&list=PL1CFLtxeIrQrQ0mUsdCw_vG_OJOYc0Prc) | [lecture series (2018): Inflation and Cosmological Perturbations](https://www.youtube.com/playlist?list=PLDxsZU4NC6Z48qC-2ApHG1eg_I96Jw3B9) |
 
-+ Antony Lewis - [Graduate level Cosmology course lecture notes, problem sets, exams](https://cosmologist.info/teaching/EU/) | [Undergrad Cosmology course notes](https://cosmologist.info/teaching/Cosmology/Cosmology.pdf) | 
++ Antony Lewis - [Graduate level Early Universe Cosmology course lecture notes, problem sets, exams](https://cosmologist.info/teaching/EU/) | [Undergrad and Masters level Intro to Cosmology](https://cosmologist.info/teaching/Cosmology/) | [Cosmology course notes](https://cosmologist.info/teaching/Cosmology/Cosmology.pdf) | 
 
 + Bayesian Data Analysis - [Course materials](https://avehtari.github.io/BDA_course_Aalto/gsu2021.html) | [github](https://github.com/avehtari/BDA_course_Aalto) | [tweet](https://x.com/avehtari/status/1364550167295311874) | 
 
@@ -64,7 +64,7 @@
 
 + Classical and quantum cosmology lectures, from Corfu Summer Institute: [2202.13875](https://arxiv.org/abs/2202.13875) | [Lectures recording 1](https://youtu.be/38IQBs9qsLc?list=PLUX8Mk7mqLPLPDzcBV5VrCunaCtgQSZKm) | [Recording 2](https://youtu.be/zL5B_e91QFo?list=PLUX8Mk7mqLPLPDzcBV5VrCunaCtgQSZKm) |
 
-+ Cliff Burgess - [Course materials, incl PDFs of his books, etc](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=630) | [Course pages](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=18) | [Courses and lectures at Perimeter Institute](https://pirsa.org/speaker/Cliff-Burgess) | [Interview: Lessons on and from Quantum Gravity](https://youtu.be/cSCqIxBxmxs) |
++ Cliff Burgess - [Course materials, incl PDFs of his books, etc](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=630) | [Course pages](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=18) | [Courses and lectures at Perimeter Institute](https://pirsa.org/speaker/Cliff-Burgess) | [Interview: Lessons on and from Quantum Gravity](https://youtu.be/cSCqIxBxmxs) | [[2509.00688] Dark Energy and the Symbiosis Between Micro-physics and Cosmology (Naturally)](https://arxiv.org/abs/2509.00688), Les Houches 2025 cosmology summer school lectures |
 
 + Carolina Cuesta-Lazaro - [a large slides collection (~93) from her talks on machine learning topics in cosmology](https://slides.com/carolcuesta) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Cuesta-Lazaro) |
 
@@ -91,6 +91,8 @@
 
 + Dan Hooper - [TASI Lectures on Indirect Searches For Dark Matter [1812.02029]](https://arxiv.org/abs/1812.02029)
 
++ David Marsh - [Cosmology Lecture Notes and Problem Sets](https://indico.global/event/14222/sessions/20142/), BUSSTEPP 2025 Summer School
+
 + David Tong+ - [Cosmology lectures and problem sheets](http://www.damtp.cam.ac.uk/user/tong/cosmo.html) | [Particle World Summer Lectures at CERN, video + slides](https://cds.cern.ch/search?f=author&p=Tong%2C%20David&ln=en) |
 
 + David Wands - [The Early Universe](https://github.com/HAWinther/LectureNotes/blob/master/ICG_PhD_Lectures_Theoretical_Cosmology_2016/notes_david_wands.pdf) | [[1504.06335] Physics of the Cosmic Microwave Background Radiation](https://arxiv.org/abs/1504.06335), by Wands et al |
@@ -100,6 +102,8 @@
 + Eiichiro Komatsu - [Lecture materials](https://wwwmpa.mpa-garching.mpg.de/~komatsu/lectures--reviews.html)
 
 + Enrico Pajer - [Cosmology, Field Theory in Cosmology, and Soft Theorems in Cosmology](http://www.damtp.cam.ac.uk/user/ep551/teaching.html)
+
++ Eric Linder - [First Principles of Cosmology](https://supernova.lbl.gov/~evlinder/umass/fpoc.html) | [Cosmology Formulas](https://supernova.lbl.gov/~evlinder/cosmoeqs.pdf) | [resource materials collection](https://supernova.lbl.gov/~evlinder/scires.html) | [Snowmass 2001 Resource Book on Dark Energy, ed. Eric Linder](https://supernova.lbl.gov/~evlinder/sci.html) |
 
 + Eugene Lim - [Advanced Cosmology : Primordial non-Gaussianities](https://nms.kcl.ac.uk/eugene.lim/AdvCos/lecture2.pdf) | [KCL page with additional materials](https://nms.kcl.ac.uk/eugene.lim/) |
 
@@ -183,6 +187,8 @@
 
 + Rishi Khattri - [Cosmology Lecture Notes (195 pages)](https://theory.tifr.res.in/~khatri/lecturenotes/cosmology/cosmology.pdf)
 
++ Roman Scoccimarro - [Cosmology course materials](https://cosmo.nyu.edu/roman/courses/menu.html) 
+
 + Sean M. Carroll - [Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) | [A No-Nonsense Intro to GR](https://cmb.wintherscoming.no/pdfs/carroll_gr.pdf) |
 
 + Sean McGee - [Observational Cosmology course materials](https://www.sr.bham.ac.uk/~smcgee/ObsCosmo/)
@@ -222,6 +228,8 @@
 + Will Handley - [Academic talks (slides and source)](https://github.com/williamjameshandley/talks?tab=readme-ov-file), many on cosmology topics, github repo
 
 + Will Kinney - [TASI Lectures on Inflation [0902.1529]](https://arxiv.org/abs/0902.1529) | [lectures/talks on inflation](https://jrdmb.netlify.app/crt.html?s1=william+h.+kinney) |
+
++ Willam Giare - [Lecture notes on axion cosmology, inflation, and MCMC methods](https://github.com/williamgiare/wgcosmo/tree/main/notes) | [tools, codes, and methodologies for cosmology](https://github.com/williamgiare/wgcosmo) | [talk slides](https://github.com/williamgiare/wgcosmo/tree/main/talks) | [website](https://www.williamgiare.com/home) |
 
 <span id="resourcesites"><b>Resource Materials and Sites</b></span> <a href="#" title="Return to top of page"> ^ </a>
 
@@ -305,6 +313,8 @@
   - Robert Rosati: [Inflation.jl](https://github.com/rjrosati/Inflation.jl) and talk [Simulating the Early Universe with Inflation.jl](https://youtu.be/gvUZiPPB3nI) 
 
 + [Codes in Cosmology](https://gitlab.com/dhirajhazra/simple-codes-in-cosmology): python code and Jupyter notebooks useful in studying cosmology, by Dhiraj Kumar Hazra | [tweeted info](https://x.com/dhirajhazra/status/1435129171835953152) |
+
++ [CosmoVerse code tools](https://cosmoversetensions.eu/for-scientists/tools/)
 
 + [Python Resources: Astronomy, Scientific Plotting, and Data Analysis (at the NRAO wiki)](https://safe.nrao.edu/wiki/bin/view/Main/PythonResources)
 
@@ -447,6 +457,8 @@
 
 + [Ethan Siegel](https://bigthink.com/starts-with-a-bang/most-important-equation-cosmology/): prolific author of the [Starts With A Bang](https://bigthink.com/starts-with-a-bang/) articles on BigThink
 
++ [Eve Vavagiakis](https://evevavagiakis.com/), works as a part of four collaborations: ACT, CCAT, CMB-S4, and SO | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Eve+Vavagiakis) |
+
 + [Florent Leclercq](https://florent-leclercq.eu/index.php): numerical cosmology, cosmostatistics, focus on analysis of galaxy survey data | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=leclercq) |  [talk slides](https://florent-leclercq.eu/talks.php)|
 
 + [Francis-Yan Cyr-Racine](https://darkuniverse.unm.edu/): "research focuses on dark matter, gravitational lensing, neutrinos, and cosmology, with an emphasis on their relation with particle physics" | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Francis-Yan+Cyr-Racine) |
@@ -527,7 +539,7 @@
 
 + [Raul Jimenez](https://sites.google.com/site/rauljimenez/): theoretical cosmologist "especially interested in analysing large datasets and in the development of rigorous statistical algorithms" | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=raul+jimenez) |
 
-+ [Richard Easther](https://excursionset.com/): ExcursionSet blog | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=richard+easther) |
++ [Richard Easther](https://cosmology.auckland.ac.nz/): Cosmology at Auckland website | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=richard+easther) |
  
 + [Sean Carroll](https://www.preposterousuniverse.com/blog/): Preposterous Universe
 
@@ -541,11 +553,13 @@
 
 + [Sunny Vagnozzi](https://www.sunnyvagnozzi.com/blog): cosmologist with a strong background in particle theory working at the interface of cosmology, astrophysics, and particle physics. His blog has weekly reviews of current cosmology papers, [here is a listing of them](https://jrdmb.netlify.app/vagnozzi-paper-reviews.html) (currently inactive while on parental leave) and here is a [topic tags index](https://jrdmb.netlify.app/vagnozzi-blog-tags.html) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=sunny+vagnozzi) | [talk slides](https://www.sunnyvagnozzi.com/en/talks) |
 
-+ [Swagat Saurav Mishra](https://swagatam18.wordpress.com/): [Lecture notes on cosmic inflation](https://arxiv.org/abs/2403.10606) | [talks, slides, resource materials](https://jrdmb.netlify.app/crm-search-all.html?s1=swagat+saurav+mishra) |
++ [Swagat Saurav Mishra](https://swagatam18.wordpress.com/): [[2403.10606] Lecture notes on cosmic inflation](https://arxiv.org/abs/2403.10606) | [talks, slides, resource materials](https://jrdmb.netlify.app/crm-search-all.html?s1=swagat+saurav+mishra) |
 
 + [Tessa Baker](https://www.tessabaker.space/): dark energy, modified gravity, gravitational waves, galaxy surveys and large-scale structure | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=tessa_baker) |
 
 + [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [cosmosage-v3.1](https://huggingface.co/Tijmen2/cosmosage-v3.1) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | [[2407.04420] cosmosage: A Natural-Language Assistant for Cosmologists](https://arxiv.org/abs/2407.04420) |
+
++ [William Giare](https://www.williamgiare.com/home): research activity combines theoretical, computational and numerical cosmology with statistics | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=william+giare) | [talk/lecture slides](https://github.com/williamgiare/wgcosmo/tree/main/talks) |
 
 + [Yashar Akrami](https://www.yashar-akrami.com/): theoretical and observational cosmology | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Yashar+Akrami) |
   
