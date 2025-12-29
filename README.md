@@ -2,35 +2,29 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 27-Oct-2025**
-<hr><br>
+**New:** [**Search all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 24-Dec-2025**
+<hr>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
   
-+ [**Database of links to 9,500+ cosmology research/academic talks from 200+ sources**](https://jrdmb.netlify.app/crt.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
++ [Database of links to **~9,900 cosmology research/academic talks**](https://jrdmb.netlify.app/crt.html) from [**210 sources**](https://jrdmb.netlify.app/crt-series.html) | [GitHub repo](https://github.com/jrdmb/cosmotalks-datasette) | [blog post](https://jrdmb.netlify.app?qsa3sxsyhmzq1gqq) |
 
-+ [**Searchable cross-reference of Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
++ [Searchable cross-reference of **Cosmology Papers with Researcher Talks**](https://jrdmb.netlify.app/crt-papers.html)
 
-+ [**List of all talk host sites in the talks database**](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
++ [List of all **talk host sites** in the talks database](https://jrdmb.netlify.app/crt-series.html) | [Topics groupings](https://jrdmb.netlify.app/crt-topics.html) |
 
-+ [**Database of 5,000+ slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
++ [Database of 5,000+ **slides from cosmology research/academic talks**](https://jrdmb.netlify.app/crsl.html), typically where recordings are unavailable
 
-+ [**Search for links to all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
++ [Search for links to **all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials
 
-+ [**A List of Some Cosmology Review Papers**](https://jrdmb.netlify.app/?x62ca5qxiy8nprhr)
++ [List of **Cosmology Review Papers**](https://jrdmb.netlify.app/?x62ca5qxiy8nprhr)
 
 + Some sites that list upcoming or past cosmology conferences, seminars, etc:
-
   - INSPIRE listings: [cosmology conferences](https://inspirehep.net/conferences?sort=datedesc&size=100&page=1&start_date=all&subject=gravitation%20and%20cosmology) | [cosmology seminars](https://inspirehep.net/seminars?sort=datedesc&size=100&page=1&start_date=all&q=cosmology) |
-
   - [Indico.CERN search page](https://indico.cern.ch/search/?q=keyword%3Acosmology&sort=mostrecent)
-
   - [CosmoCoffee conferences and meetings](https://cosmocoffee.info/viewforum.php?f=9)
-
   - [COMS conferences and meetings](https://conference-service.com/conferences/gravitation-and-cosmology.html)
-
   - [ESO Conferences at Zenodo](https://www.eso.org/sci/php/libraries/zenodolist.html)
-
   - [Astroparticle theory virtual events sponsored by EuCAPT](https://www.eucapt.org/virtual-meetings)
 
 + [A collection of ~25,000 astrophysics talks compiled by David Hendriks (last updated 2023-04-11)](https://dhendriks.gitlab.io/astrotalks/)
@@ -66,7 +60,7 @@
 
 + Cliff Burgess - [Course materials, incl PDFs of his books, etc](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=630) | [Course pages](https://www.physics.mcmaster.ca/~cburgess/cburgess/?page_id=18) | [Courses and lectures at Perimeter Institute](https://pirsa.org/speaker/Cliff-Burgess) | [Interview: Lessons on and from Quantum Gravity](https://youtu.be/cSCqIxBxmxs) | [[2509.00688] Dark Energy and the Symbiosis Between Micro-physics and Cosmology (Naturally)](https://arxiv.org/abs/2509.00688), Les Houches 2025 cosmology summer school lectures |
 
-+ Carolina Cuesta-Lazaro - [a large slides collection (~93) from her talks on machine learning topics in cosmology](https://slides.com/carolcuesta) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Cuesta-Lazaro) |
++ Carolina Cuesta-Lazaro - [large slides collection from her talks on machine learning topics in cosmology](https://slides.com/carolcuesta) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Cuesta-Lazaro) |
 
 + Cole Miller - [Cosmology course (2007), lecture notes and problem sets](https://www.astro.umd.edu/~miller/teaching/astr422/)
 
@@ -156,7 +150,7 @@
 
 + Licia Verde - papers on statistical methods in cosmology: [0911.3105](https://arxiv.org/abs/0911.3105), [0712.3026](https://arxiv.org/abs/0712.3028) and [recorded lectures](https://jrdmb.netlify.app/crt.html?s1=licia+verde&s2=statistic)
 
-+ Luca Amendola - [Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/cosmology.pdf), dated 31-Jan-2023 | [Advanced Cosmology lecture notes](https://www.thphys.uni-heidelberg.de/~amendola/teaching/adv-cosm.pdf), dated 25-Jul-2023
++ Luca Amendola - lecture notes: [Cosmology](https://www.thphys.uni-heidelberg.de/~amendola/teaching/cosmology.pdf), dated 31-Jan-2023 | [Advanced Cosmology](https://www.thphys.uni-heidelberg.de/~amendola/teaching/adv-cosm.pdf), dated 15-Jul-2025 | [Cosmological large-scale structure](https://www.thphys.uni-heidelberg.de/%7Eamendola/teaching/lss.pdf), 21-May-2025 |
 
 + M. Sten Delos - [The physical bases for the structures of collisionless dark matter halos](https://wwwmpa.mpa-garching.mpg.de/~komatsu/lecturenotes/Sten_Delos_on_darkmatter_structure.pdf)
 
@@ -190,7 +184,7 @@
 
 + Roman Scoccimarro - [Cosmology course materials](https://cosmo.nyu.edu/roman/courses/menu.html) 
 
-+ Sean M. Carroll - [Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) | [A No-Nonsense Intro to GR](https://cmb.wintherscoming.no/pdfs/carroll_gr.pdf) |
++ Sean Carroll - [Lecture Notes on General Relativity](https://arxiv.org/abs/gr-qc/9712019) | [A No-Nonsense Intro to GR](https://cmb.wintherscoming.no/pdfs/carroll_gr.pdf) | [Philosophy of Cosmology course notes: github gist html display from markdown source](https://gist.github.com/jrdmb/0ca29b86df3324905900e051266a0f61) | [Bluesky unroll of Philosophy of Cosmology course notes](https://skyview.social/?url=https://bsky.app/profile/seanmcarroll.bsky.social/post/3lxd3pc6scc26&viewtype=unroll) |
 
 + Sean McGee - [Observational Cosmology course materials](https://www.sr.bham.ac.uk/~smcgee/ObsCosmo/)
 
@@ -234,6 +228,8 @@
 
 <span id="resourcesites"><b>Resource Materials and Sites</b></span> <a href="#" title="Return to top of page"> ^ </a>
 
++ [AstroWiki](https://publish.obsidian.md/astrowiki): see the Cosmology section in this set of notes to supplement studying for the MIT Astrophysics division Oral Qualification Exam; also available as a [github repo](https://github.com/AYelland/AstroWiki_2.0) in markdown format as an [Obsidian](https://obsidian.md/) vault. Downloading this vault to your own machine "has the advantage of using canvases, editing, and greater customizability, but most importantly a full text search (rather than just note titles and headings as on the website version)."
+
 + [Dynamics of the Universe in Problems](http://universeinproblems.com/index.php/Main_Page): over 2,000 problems and solutions
 
 + [All astrophysical and cosmology coverage in the Review of Particle Physics (2024)](https://pdg.lbl.gov/2024/reviews/astro-cosmo.html)
@@ -260,7 +256,7 @@
 
 + [Cosmology Cheatsheet 1](https://speakerd.s3.amazonaws.com/presentations/3597334f3bec4e699827ccab82bd9c87/summary_lectures_01.pdf) | [Cheatsheet 2](https://speakerd.s3.amazonaws.com/presentations/c0d57d0ee80b41e59c528dce877963de/summary_lectures_02.pdf) |
 
-+ [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/A_Cosmology_Workbook), by  [Lloyd Knox](https://www.lloydknox.com/) at UC Davis, which he uses in his [undergrad cosmology course for physics majors](https://www.lloydknox.com/cosmology-for-physics-majors)
++ [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/A_Cosmology_Workbook), by  [Lloyd Knox](https://www.lloydknox.com/) at UC Davis, a LibreText used in his [undergrad cosmology course for physics majors](https://www.lloydknox.com/cosmology-for-physics-majors)
 
 + [CosmoComments](https://docs.google.com/document/d/1Tz_sZ92khJZVtx4Ru_4DICAEvMS6EPHL3lobHBzvC3A/edit) and [CosmoCoffee](https://cosmocoffee.info/) 
 
@@ -313,7 +309,7 @@
   - Marius Millea: [CMBLensing.jl](https://cosmicmar.com/CMBLensing.jl/stable/) 
   - Robert Rosati: [Inflation.jl](https://github.com/rjrosati/Inflation.jl) and talk [Simulating the Early Universe with Inflation.jl](https://youtu.be/gvUZiPPB3nI) 
 
-+ [Codes in Cosmology](https://gitlab.com/dhirajhazra/simple-codes-in-cosmology): python code and Jupyter notebooks useful in studying cosmology, by Dhiraj Kumar Hazra | [tweeted info](https://x.com/dhirajhazra/status/1435129171835953152) |
++ [Codes in Cosmology](https://gitlab.com/dhirajhazra/simple-codes-in-cosmology): python code and Jupyter notebooks for studying cosmology, by Dhiraj Kumar Hazra | [tweeted info](https://x.com/dhirajhazra/status/1435129171835953152) |
 
 + [CosmoVerse code tools](https://cosmoversetensions.eu/for-scientists/tools/)
 
@@ -338,9 +334,11 @@
 
 <span id="books"><b>Free Online Books</b></span> <a href="#" title="Return to top of page"> ^ </a>
 
-+ [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/A_Cosmology_Workbook), by  [Lloyd Knox](https://www.lloydknox.com/) at UC Davis, which he uses in his [undergrad cosmology course for physics majors](https://www.lloydknox.com/cosmology-for-physics-majors)
++ [A Cosmology Workbook](https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_156_-_A_Cosmology_Workbook/A_Cosmology_Workbook), by  [Lloyd Knox](https://www.lloydknox.com/) at UC Davis, a LibreText he uses in his [undergrad cosmology course for physics majors](https://www.lloydknox.com/cosmology-for-physics-majors)
 
 + [Lecture Notes in Cosmology [1803.00070]](https://arxiv.org/abs/1803.00070): 377 page book by Oliver F. Piattella published by Springer in 2018
+
++ [Big Ideas in Cosmology](https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Big_Ideas_in_Cosmology_(Coble_et_al.)), a LibreText by Coble,  McLin, and Cominsky
 
 + [Beyond the Standard Model Cocktail [2207.01633]](https://arxiv.org/abs/2207.01633): "a thorough survey of important questions at the interface between theoretical particle physics and cosmology; submitted to Springer for publication"
 
@@ -412,7 +410,7 @@
 
 + [Agnès Ferté](https://www.agnesferte.com/): weak lensing and multi-probe data analysis and modeling | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=agnes+ferte) |
 
-+ [Alkistis Pourtsidou](https://www.alkistispourtsidou.com/): large-scale structure, radio intensity mapping surveys, optical galaxy surveys, [public codes](https://www.alkistispourtsidou.com/project/code/) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Alkistis+Pourtsidou) |
++ [Alkistis Pourtsidou](https://www.alkistispourtsidou.com/): large-scale structure, radio intensity mapping surveys, optical galaxy surveys, [public codes](https://www.alkistispourtsidou.com/project/code/) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Alkistis+Pourtsidou) |
 
 + [Andrew Jaffe](https://www.andrewjaffe.net/blog): many CMB and Planck articles, though blog is inactive since mid-2018
 
@@ -560,13 +558,13 @@
 
 + [Tijmen de Haan](https://www2.kek.jp/qup/en/member/dehaan.html) | CMB is primary interest | [cosmosage](https://github.com/tijmen/cosmosage): a large language model trained on cosmology-specific datasets with the goal of making a general-purpose natural-language assistant for cosmologists; several models available on [huggingface](https://huggingface.co/Tijmen2) | [cosmosage-v3.1](https://huggingface.co/Tijmen2/cosmosage-v3.1) | [colloquium talk on cosmosage](https://youtu.be/azwfG2UTNEY) | [[2407.04420] cosmosage: A Natural-Language Assistant for Cosmologists](https://arxiv.org/abs/2407.04420) |
 
-+ [William Giarè](https://www.williamgiare.com/home): research activity combines theoretical, computational and numerical cosmology with statistics | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=william+giare) | [talk/lecture slides](https://github.com/williamgiare/wgcosmo/tree/main/talks) | [Cosmology Tools github repo](https://github.com/williamgiare/wgcosmo/) |
++ [William Giarè](https://www.williamgiare.com/home): research activity combines theoretical, computational and numerical cosmology with statistics | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=william+giare) | [talk/lecture slides](https://github.com/williamgiare/wgcosmo/tree/main/talks) | [Cosmology Tools github repo](https://github.com/williamgiare/wgcosmo/) |
 
 + [Yashar Akrami](https://www.yashar-akrami.com/): theoretical and observational cosmology | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Yashar+Akrami) |
   
 <span id="other"><b>Other Notable Links</b></span> <a href="#" title="Return to top of page"> ^ </a>
 
-+ [AIP Oral History Interviews: cosmology related](https://www.aip.org/history-programs/oral-histories/search?search_api_views_fulltext=cosmology&f%5B0%5D=subjects%3A3311)   
++ [AIP Oral History Interviews: cosmology related](https://repository.aip.org/node/5540?search_api_fulltext=&sort_order=ASC¬_type=&is_type=&search_api_fulltext_1=&display=grid&sort_by=title&items_per_page=100&f%5B0%5D=subject%3ACosmology)   
 + [Some non-Cosmology Physics Talks of Interest](https://jrdmb.netlify.app?2D7Ec9DW7Px+lrGR)
 + <a href="https://neutrinos.fnal.gov/">All Things Neutrino, from Fermilab</a>
 + [Ciaran O'Hare - talks slides: How to Make a Plot (in physics)](https://github.com/cajohare/HowToMakeAPlot/blob/main/slides/presentation.pdf)
@@ -574,3 +572,4 @@
 <hr>
 
 jrdmb: [Bluesky](https://bsky.app/profile/jrdmb.bsky.social) | <a rel="me" href="https://scicomm.xyz/@jrdmb">Mastodon</a> | <a href="https://X.com/jrdmb">X.com</a> | [Github](https://github.com/jrdmb) |
+
