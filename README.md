@@ -2,7 +2,7 @@
 
 **Sections:** [Talk Videos+](#videos) | [Lecture Notes/Materials](#lecturenotes) | [Resources](#resourcesites) | [Codes/Tools](#codes) | [Online Books](#books) | [Papers+](#papers) | [Personal Sites](#websites) | [Other](#other) |
 
-**New:** [**Search all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 24-Dec-2025**
+**New:** [**Search all Cosmology Data cataloged on this site**](https://jrdmb.netlify.app/crm-search-all.html) - talks/lectures, papers-talks cross-ref, slides, resource materials<br>This page **last updated 02-Jan-2026**
 <hr>
 
 <span id="videos"><b>Talk videos/slides from conferences, seminars, workshops, colloquia, summer schools, uni courses, etc</b></span> <a href="#" title="Return to top of page"> ^ </a>
@@ -190,6 +190,8 @@
 
 + Subir Sarkar - [Astroparticle physics course materials, University of Oxford](http://www-thphys.physics.ox.ac.uk/people/SubirSarkar/astropartphys.html)
 
++ Surhud More - [Cosmology MSc course](https://surhudmorg.github.io/Cosmology_March21/index.html)
+
 + Tessa Baker - [Lecture notes on Weak Lensing](https://www.tessabaker.space/images/pdfs/lensing-lecture-tbaker-handout-40742.pdf) | [Lecture Notes on Modified Gravity](https://tessabaker.space/images/pdfs/Lecture_notes_MG_v2.pdf) | [recorded talks](https://jrdmb.netlify.app/crt.html?s1=Tessa+Baker) |
 
 + Tirthankar Roy - [Cosmology, IUCAA - NCRA Graduate School, April 2021 course, 21 lectures with videos and slides](http://www.ncra.tifr.res.in/~tirth/Teaching/Cosmology-2021/index.html)
@@ -246,7 +248,7 @@
 
 + [CMB Power Spectrum Analyzer](https://lambda.gsfc.nasa.gov/bau/) | [docs](https://lambda.gsfc.nasa.gov/education/bau_documentation.html) | [Other NASA LAMBDA educational tools](https://lambda.gsfc.nasa.gov/education/) |
 
-+ [CMB Summer School (from The McMahon Cosmology Lab at U of Chicago)](https://sites.google.com/uchicago.edu/themcmahoncosmologylab/cmb-summer-school)
++ [CMB Summer School (from The McMahon Cosmology Lab at U of Chicago)](https://sites.google.com/uchicago.edu/themcmahoncosmologylab/cmb-summer-school) | [github repo](https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool) |
 
 + [Machine Learning in Cosmology](https://github.com/georgestein/ml-in-cosmology), a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Created by [George Stein](https://georgestein.github.io/), ML Scientist at UC Berkeley and LBNL
 
@@ -572,4 +574,3 @@
 <hr>
 
 jrdmb: [Bluesky](https://bsky.app/profile/jrdmb.bsky.social) | <a rel="me" href="https://scicomm.xyz/@jrdmb">Mastodon</a> | <a href="https://X.com/jrdmb">X.com</a> | [Github](https://github.com/jrdmb) |
-
